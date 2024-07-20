@@ -1,0 +1,28 @@
+.modal-header, h4, .close {
+  background-color:orange;
+  color:white !important;
+  text-align: center;
+  font-size: 30px;
+}
+.modal-footer {
+  background-color: #f9f9f9;
+  text-align: center;
+}
+#myBtn{
+  margin-top: 10px;
+  background-color: dodgerblue;
+  color: white;
+  margin-right: 10px;  
+}
+.header-right {
+  float: right;
+}
+.header {
+ overflow:auto;
+ background-color: black;
+ padding: 20px 10px;
+ }
+
+body{
+  background-color: rgb(218, 215, 215);
+ }
